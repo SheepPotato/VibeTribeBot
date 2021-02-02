@@ -270,3 +270,4 @@ CMakeSettings.json
 deps/
 /discord_token.txt
 include/sleepy_discord/version.h
+sleepy-discord/
